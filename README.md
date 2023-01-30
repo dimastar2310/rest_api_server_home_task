@@ -41,7 +41,7 @@ Nginx basic web server go to EC2 you will see instanse(virtual machine) you will
 ![alt text](https://github.com/dimastar2310/rest_api_server_home_task/blob/main/img/server.png)
 
 you can see the server by this link thath i provided only for you
-35.78.93.244
+18.181.179.153
 Iam making change for this github 
 ![alt text](https://github.com/dimastar2310/rest_api_server_home_task/blob/main/img/server_pic.png)
 
